@@ -63,11 +63,6 @@ login.js
 
 O sistema utiliza autenticação simples no front-end:
 
-- Vanessa (professora)
-- Nayara (aluna)
-- Ise (aluna)
-
-> ⚠️ Observação: o login não possui backend, sendo apenas demonstrativo.
 
 ---
 
